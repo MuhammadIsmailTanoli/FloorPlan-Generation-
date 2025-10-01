@@ -1,0 +1,24 @@
+clip-anytorch==2.6.0
+dctorch==0.1.2
+diffusers @ git+https://github.com/huggingface/diffusers.git@6dfaec348780c6153a4cfd03a01972a291d67f82
+fuzzywuzzy==0.18.0
+geopandas==1.0.1
+matplotlib @ file:///croot/matplotlib-suite_1693812469450/work
+matplotlib-inline @ file:///work/ci_py311/matplotlib-inline_1676823841154/work
+numpy==1.26.4
+numpydoc @ file:///work/ci_py311/numpydoc_1676845056742/work
+open_clip_torch==2.27.1
+opencv-python==4.10.0.84
+opencv-python-headless==4.10.0.84
+pandas @ file:///croot/pandas_1692289311655/work
+Pillow @ file:///croot/pillow_1695134008276/work
+pytorch-fid==0.3.0
+torch==2.4.1
+torch-fidelity==0.3.0
+torch-geometric==2.6.1
+torchaudio==2.4.1
+torchdiffeq==0.2.4
+torchmetrics==1.6.2
+torchsde==0.2.6
+torchvision==0.19.1
+txtai==8.0.0
